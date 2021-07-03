@@ -1,0 +1,34 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+ h1{
+     font-size: 50px;
+ }
+ .color{
+     color:rgb(177, 54, 10);
+ }
+  section{
+      display: flex;
+  }
+  .job {
+      width: 50%;
+      padding-left: 10%;
+  }
+  .job img{
+      width: 80%;
+  }
+  .good{
+
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 5px 10px;
+    border-radius: 5px;
+   color: white;
+   font-weight: 400; 
+  }
+  .top-banner{
+      background-image: url(images/top-banner.png);
+      background-repeat: no-repeat;
+
+  }

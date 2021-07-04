@@ -55,3 +55,39 @@ p{
     background-repeat: no-repeat;
     background-position: right;
 }
+
+.color{
+    color: orangered;
+}
+
+.experience-area{
+ background-image: url(images/exp-bg.png);
+ background-repeat: no-repeat;
+ background-position:left;
+}
+
+.experience-item{
+width: 40%;
+margin-left: 5%;
+margin-right: 5%;
+padding-left: 25px;
+border-radius: 5px;
+box-shadow: 10px 10px 30px;
+}
+
+#full-stack-chef{
+    border-left: 7px solid;
+    border-image: linear-gradient(blue,cyan);
+    border-image-slice: 1;
+}
+
+#baby-chef-my-child{
+    border-left: 7px solid;
+    border-image: linear-gradient(orange,rgb(243, 82, 82));
+    border-image-slice: 1;
+}
+
+footer p{
+    text-align: center;
+    color: peru;
+}

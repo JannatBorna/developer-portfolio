@@ -26,6 +26,15 @@ p{
     color: white;
     font-weight: 400;
 }
+.febo-two{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(241, 92, 5), rgb(241, 185, 79));
+    padding: 10px 15px;
+    margin: 20px;
+    border-radius: 5px;
+    color: white;
+    font: weight 400px; ;
+}
 .top-banner{
 
     background-image: url(images/top-banner.png);
@@ -39,4 +48,10 @@ p{
 
 .chobi img{
     width: 80%;
+}
+
+.beautiful{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }

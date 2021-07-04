@@ -1,11 +1,42 @@
 body{
-   
+  
    font-family:'poppins' ,sans-serif;
+   margin: 0;
 }
 h1{
     font-size: 40px;
+}
+p{
+    font-size: 20px;
+    font-weight: 500;
 }
 .flower{
     color: orangered;
 }
 
+.flexible-container{
+    display: flex;
+      margin-bottom: 500px;
+}
+.febo{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(128, 0, 79), rgb(211, 158, 199));
+    padding: 10px 30px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 500;
+}
+.top-banner{
+
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+
+.chobi{
+ width: 50%;
+ padding-left: 10%;
+}
+
+.chobi img{
+    width: 80%;
+}

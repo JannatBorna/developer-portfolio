@@ -16,15 +16,15 @@ p{
 
 .flexible-container{
     display: flex;
-      margin-bottom: 500px;
+      margin-bottom: 200px;
 }
 .febo{
     text-decoration: none;
     background-image: linear-gradient(rgb(128, 0, 79), rgb(211, 158, 199));
-    padding: 10px 30px;
+    padding: 5px 10px;
     border-radius: 5px;
     color: white;
-    font-weight: 500;
+    font-weight: 400;
 }
 .top-banner{
 
@@ -33,7 +33,7 @@ p{
 }
 
 .chobi{
- width: 50%;
+ width: 200%;
  padding-left: 10%;
 }
 
